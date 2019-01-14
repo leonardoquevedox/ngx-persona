@@ -53,4 +53,4 @@ var NgxPersonaModule = /** @class */ (function () {
 
 export { NgxPersonaModule, NgxPersona as ɵa };
 
-//# sourceMappingURL=ngx-bank-account-br.js.map
+//# sourceMappingURL=ngx-persona.js.map

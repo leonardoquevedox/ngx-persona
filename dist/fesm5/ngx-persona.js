@@ -15,7 +15,6 @@ var NgxPersona = /** @class */ (function () {
                     styles: [""]
                 }] }
     ];
-    /** @nocollapse */
     NgxPersona.ctorParameters = function () { return []; };
     NgxPersona.propDecorators = {
         pic: [{ type: Input, args: ['pic',] }],

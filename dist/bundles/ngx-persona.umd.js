@@ -8,7 +8,7 @@
      * @fileoverview added by tsickle
      * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
-    var NgxPersona = /** @class */ (function () {
+    var NgxPersona = (function () {
         function NgxPersona() {
         }
         NgxPersona.decorators = [
@@ -18,7 +18,6 @@
                         styles: [""]
                     }] }
         ];
-        /** @nocollapse */
         NgxPersona.ctorParameters = function () { return []; };
         NgxPersona.propDecorators = {
             pic: [{ type: core.Input, args: ['pic',] }],
@@ -31,7 +30,7 @@
      * @fileoverview added by tsickle
      * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
-    var NgxPersonaModule = /** @class */ (function () {
+    var NgxPersonaModule = (function () {
         function NgxPersonaModule() {
         }
         NgxPersonaModule.decorators = [

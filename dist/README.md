@@ -26,7 +26,7 @@ import { NgxPersona } from 'ngx-persona'
 @NgModule({
   (...)
   imports: [
-    NgxPersona.forRoot()
+    NgxPersona
   ]
   (...)
 })

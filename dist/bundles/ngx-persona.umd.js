@@ -14,7 +14,7 @@
         NgxPersona.decorators = [
             { type: core.Component, args: [{
                         selector: 'ngx-persona',
-                        template: "<article overlay-content>\n  <img persona [src]=\"pic.src\" [width]=\"pic.width\" [height]=\"pic.height\" />\n  <section message [innerHTML]=\"message\"></section>\n</article>\n",
+                        template: "<article overlay-content>\n  <section message [innerHTML]=\"message\"></section>\n  <img persona [src]=\"pic.src\" [width]=\"pic.width\" [height]=\"pic.height\" />\n</article>\n",
                         styles: [""]
                     }] }
         ];

@@ -1,6 +1,6 @@
 {
   "name": "ngx-persona",
-  "version": "1.0.0-rc25",
+  "version": "1.0.0-rc26",
   "description": "Simple Angular.io view including an application persona and a message. Useful for empty or error states.",
   "main": "index.js",
   "scripts": {
